@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unnamed</string>
+    <string name="search_text">Search</string>
+    <string name="loading_more">Loading more...</string>
+</resources>
